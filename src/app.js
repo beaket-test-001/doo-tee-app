@@ -1,5 +1,5 @@
 const CACHE_TTL = 86400;
 
 export function isAdmin(user) {
-  return user === 'admim'
+  return user === 'admin'
 };
